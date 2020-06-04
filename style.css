@@ -1,0 +1,49 @@
+.navbar{
+    background-color:#D1C4E9 !important;
+}
+.products-to-buy{
+    margin-top: 50px;
+}
+.nav-item{font-weight: bold;
+color: #262626;}
+.card{
+width: 250px;
+height: auto !important;
+padding: 10px !important;
+}
+.btn-primary{
+    width: 100%;
+    background-color:#D1C4E9 ;
+    color:#262626;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+color: cornflowerblue;
+}
+.page-footer{
+    margin-top: 20px !important;
+    background-color:#262626 !important;
+}
+.card-title{color: #262626 !important;
+font-weight: bold !important;}
+h5{
+    color: #fff !important;
+    font-weight: bold !important;
+}
+.text{
+    color: #fff !important;
+    font-weight: bold !important;
+}
+
+.footer-copyright{
+    color: #fff !important;
+    font-weight: bold !important;
+}
+div > img{ width: 40%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    /* transform: translate(50px,50px); */
+    box-shadow: 2px 4px 5px grey;
+}
